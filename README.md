@@ -5,7 +5,7 @@ Este projeto, denominado Cine Opina, foi desenvolvido como parte de um curso abr
 
 ## Demonstração
 
-Para visualizar uma demonstração do site, acesse [aqui](https://matheusap93.github.io/Alura-Books/).
+Para visualizar uma demonstração do site, acesse [aqui](https://matheusap93.github.io/CineOpina/).
 
 ## Tecnologias Utilizadas
 
