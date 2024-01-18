@@ -31,7 +31,7 @@ Para visualizar uma demonstração do site, acesse [aqui](https://matheusap93.gi
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/MatheusAp93/Alura-Books.git
+git clone https://github.com/MatheusAp93/CineOpina.git
 ```
 
 2. Abra o arquivo `index.html` em seu navegador preferido.
